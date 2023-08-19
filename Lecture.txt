@@ -11,3 +11,6 @@ What is U-Net?
 U-Net is a deep learning architecture for semantic segmentation. It was created first for biomedical imaging. This architecture was
 created for biomedical imaging and because it is a great architecture and it has a good accuracy they started using it for the other image segmentation.
 
+What is the difference between image classification | detection | segmentation ?
+
+
