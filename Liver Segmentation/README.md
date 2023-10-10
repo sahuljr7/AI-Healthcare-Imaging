@@ -1,12 +1,12 @@
 
-# Liver Segmentation Using Monai and PyTorch
+# Liver Segmentation Using PyTorch
 
 ![Output image](https://github.com/amine0110/Liver-Segmentation-Using-Monai-and-PyTorch/blob/main/images/liver_segmentation.PNG)
 
 ## Cloning the repo
 
 ```
-git clone https://github.com/amine0110/Liver-Segmentation-Using-Monai-and-PyTorch
+git clone https://github.com/sahuljr7/Liver-Segmentation-Using-Monai-and-PyTorch
 ```
 ```
 cd ./Liver-Segmentation-Using-Monai-and-PyTorch
